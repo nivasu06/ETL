@@ -1,5 +1,5 @@
 
-# User Authentication System with PDF Generation
+# User Authentication System 
 
 This project is a user authentication system built with Express.js, Mongoose, and Nodemailer. It allows users to register, log in, and receive notification emails. Additionally, the admin can generate a PDF containing user login credentials.
 
